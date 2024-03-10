@@ -8,6 +8,9 @@
 <br/>
 </div>
 
+### 📷 Important note: This is just my personal experimental project, because Gentoo is special. Depending on everyone's settings, the final system will have many differences, so this script is not universal.
+### This script can probably only provide a little reference for people who have a certain understanding of gentoo and can manually modify the script.
+
 #### Hyprland-Dots-showcase 
 <p align="center">
     <img align="center" width="49%" src="https://raw.githubusercontent.com/JaKooLit/screenshots/main/Hyprland-ScreenShots/Arch-v2/Arch-Default-Layout.png" /> <img align="center" width="49%" src="https://raw.githubusercontent.com/JaKooLit/screenshots/main/Hyprland-Dots-Showcase/dark-theme.png" />   
@@ -20,9 +23,7 @@
    <img align="center" width="49%" src="https://raw.githubusercontent.com/JaKooLit/screenshots/main/Hyprland-Dots-Showcase/waybar-layout.png" /> <img align="center" width="49%" src="https://raw.githubusercontent.com/JaKooLit/screenshots/main/Hyprland-Dots-Showcase/waybar-style.png"" /> 
 </p>
 
-> [!IMPORTANT]
-### 📷 Important note: This is just my personal experimental project, because Gentoo is special. Depending on everyone's settings, the final system will have many differences, so this script is not universal.
-This script can probably only provide a little reference for people who have a certain understanding of gentoo and can manually modify the script.
+
 
 
 
